@@ -39,4 +39,4 @@ Follow these steps to install and set up Opulence on your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/opulence.git
+   git clone git@github.com:johnkamauwamunga/opulece_backend.git
